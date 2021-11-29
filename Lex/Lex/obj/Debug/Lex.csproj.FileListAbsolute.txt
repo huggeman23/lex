@@ -1,0 +1,8 @@
+C:\Users\Hugo\source\repos\Lex\Lex\bin\Debug\Lex.exe.config
+C:\Users\Hugo\source\repos\Lex\Lex\bin\Debug\Lex.exe
+C:\Users\Hugo\source\repos\Lex\Lex\bin\Debug\Lex.pdb
+C:\Users\Hugo\source\repos\Lex\Lex\obj\Debug\Lex.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\Lex\Lex\obj\Debug\Lex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\source\repos\Lex\Lex\obj\Debug\Lex.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\Lex\Lex\obj\Debug\Lex.exe
+C:\Users\Hugo\source\repos\Lex\Lex\obj\Debug\Lex.pdb
